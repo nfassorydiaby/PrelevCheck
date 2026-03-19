@@ -1,0 +1,29 @@
+###> Symfony ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+###< Symfony ###
+
+###> Docker ###
+.env
+###< Docker ###
+
+###> OS ###
+.DS_Store
+Thumbs.db
+###< OS ###
+
+###> IDE ###
+.idea/
+.vscode/
+*.swp
+*.swo
+###< IDE ###
+
+###> Logs ###
+*.log
+###< Logs ###
